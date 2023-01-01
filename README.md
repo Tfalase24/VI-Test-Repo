@@ -34,4 +34,4 @@ type Product = { price: number, description: string, stock: number, lastSoldAt: 
 
 - Frontend
   - React Typescript
-  -
+ 
