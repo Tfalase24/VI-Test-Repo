@@ -4,6 +4,10 @@ This is a repo for a test project, this project will show me what you can do, an
 
 For this project you will have a week max to complete the task, if you compete the tasks early then you can either stop the project or continue and see what else you can you add to it.
 
+## !Important Notes!
+
+Please work on the task in the order that you think is the most important, so if you don't complete all the tasks in a week then at least the most impoartant have been done.
+
 ## Task
 
 We have been tasked by a client to build a proof of concept in a week. Our client would like a very basic web based POS (point of sales system).
@@ -35,3 +39,5 @@ type Product = { price: number, description: string, stock: number, lastSoldAt: 
 - Frontend
   - React Typescript
  
+ 
+
